@@ -16,4 +16,11 @@ at least the same value as the previously declared card on the top of the common
 not check if you lied. If you get caught lying you have to take 3 cards from the top of the heap, if not – the player
 who was checking takes 3 cards.
 
-## Strategy
+## Strategies
+* Counting how many cards are left in opponent hand  
+* Sorting hand after each draw  
+* Keeping record of all cards that were put on pile  
+* Taking into account difference between number of cards within players
+
+[Putting strategy](MyPlayer.py#L25)  
+[Checking strategy](MyPlayer.py#L62)  
