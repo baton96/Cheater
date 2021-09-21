@@ -1,4 +1,4 @@
-# Cheater Bot Player 🃏
+# 🃏 Cheater Bot Player 🃏
 
 This project was created during the course of "Elements of Computational Intelligence" and its goal was to implement a
 strategy for a bot player, based on the given example, for the card game called "Cheater". At first this player was
